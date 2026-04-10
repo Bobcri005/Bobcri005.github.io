@@ -1,9 +1,9 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Tom
-    type: person
-    tagline: ""
+    name: CoActions Lab
+    type: organization
+    tagline: Cognition and Actions Lab
     description: ""
   theme:
     mode: system
