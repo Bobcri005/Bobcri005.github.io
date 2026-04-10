@@ -25,17 +25,22 @@ main:
     url: https://bobcri005.github.io/Project
     weight: 20
 
-  - name: Blog
-    identifier: Blog
+  - name: Team
+    identifier: Team
     url: https://bobcri005.github.io/Project
     weight: 30
 
-  - name: Équipe
-    identifier: Team
+  - name: Publications
+    identifier: Publications
     url: https://bobcri005.github.io/Project
     weight: 40
+
+  - name: News
+    identifier: News
+    url: https://bobcri005.github.io/Project
+    weight: 50
 
   - name: Contact
     identifier: Contact
     url: https://bobcri005.github.io/Project
-    weight: 50
+    weight: 60
