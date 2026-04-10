@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Test (Thomas Vanvoorden)
 summary: Ceci est un test
 date: 2026-04-10
 draft: false
