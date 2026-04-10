@@ -31,3 +31,7 @@ content_meta:
 ---
 
 <!-- Tip: open with the why, then show results, code, and next steps. -->
+# Mon premier article
+
+Ceci est le contenu de mon premier blog 🚀  
+Test du site du labo
