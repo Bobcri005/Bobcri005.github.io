@@ -44,7 +44,7 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
-  - block: awards
+  - block: award
     content:
       title: Award
       username: me
