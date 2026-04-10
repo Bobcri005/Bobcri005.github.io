@@ -1,15 +1,15 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Tom V
+    name: Tom
     type: person
     tagline: ""
     description: ""
   theme:
     mode: system
-    pack: dracula
+    pack: synthwave
     colors:
-      primary: lime
+      primary: ""
       secondary: ""
       neutral: ""
   typography:
