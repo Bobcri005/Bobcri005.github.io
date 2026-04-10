@@ -22,20 +22,20 @@ main:
 
 - name: Research
     identifier: Research
-    url: /publication/
+    url: https://bobcri005.github.io/Project
     weight: 20
 
   - name: Blog
     identifier: Blog
-    url: /blog/
+    url: https://bobcri005.github.io/Project
     weight: 30
 
   - name: Équipe
     identifier: Team
-    url: /authors/
+    url: https://bobcri005.github.io/Project
     weight: 40
 
   - name: Contact
     identifier: Contact
-    url: /contact/
+    url: https://bobcri005.github.io/Project
     weight: 50
