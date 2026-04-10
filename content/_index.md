@@ -46,7 +46,7 @@ sections:
       username: me
   - block: awards
     content:
-      title: Awards
+      title: Award
       username: me
   - block: languages
     content:
