@@ -17,7 +17,7 @@
 main:
   - name: Home
     identifier: Home
-    url: https://bobcri005.github.io/Project
+    url: /
     weight: 10
 
   - name: Research
